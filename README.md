@@ -1,15 +1,75 @@
-# Attica
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# attica
 
-Open Collaboration Service client library
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/attica)
 
-## Introduction
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-Attica is a Qt library that implements the Open Collaboration Services API version 1.6.
-The REST API is defined here:
-https://www.freedesktop.org/wiki/Specifications/open-collaboration-services/
+## Architecture
 
-It grants easy access to the services such as querying information about persons and contents.
-The library is used in KNewStuff3 as content provider.
-In order to integrate with KDE's Plasma Desktop, a platform plugin exists in [plasma-desktop](https://commits.kde.org/plasma-desktop?path=attica-kde).
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-Your basic entrypoint for using Attica's functionality is the Attica::ProviderManager class.
+## Install
+
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
+
+```bash
+git clone https://github.com/Interested-Deving-1896/attica.git
+cd attica
+```
+
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/attica`](https://github.com/Interested-Deving-1896/attica) and mirrored through:
+
+```
+Interested-Deving-1896/attica  ──►  OpenOS-Project-OSP/attica  ──►  OpenOS-Project-Ecosystem-OOC/attica
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+<!-- License not detected — add a LICENSE file to this repo. -->
+<!-- AI:end:license -->
